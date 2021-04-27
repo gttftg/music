@@ -4,7 +4,7 @@
 #### 实现功能
 + 推荐页面
   推荐页分成三个部分，分别是 banner 轮播图、推荐歌单、推荐歌曲，数据都是使用 `axios` 请求 API 获取得到的，图片都使用 `vue-lazyload` 实现懒加载，better-scroll实现页面上下滚动。
-![](img\1.jpg)
+![](music\img\1.jpg)
 + 歌曲列表页面
 点击推荐页面的每张图片，跳转到歌曲列表页面
 ![]( E:\work\music\img\1.png)
