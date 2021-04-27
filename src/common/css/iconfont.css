@@ -1,0 +1,52 @@
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont.eot?t=1619521000560'); /* IE9 */
+  src: url('../fonts/iconfont.eot?t=1619521000560#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/iconfont.woff?t=1619521000560') format('woff'),
+  url('../fonts/iconfont.ttf?t=1619521000560') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../fonts/iconfont.svg?t=1619521000560#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangyishoushangyige:before {
+  content: "\e78a";
+}
+
+.icon-xiayigexiayishou:before {
+  content: "\e7a5";
+}
+
+.icon-suijibofang:before {
+  content: "\e622";
+}
+
+.icon-list1:before {
+  content: "\e7c2";
+}
+
+.icon-shoucang:before {
+  content: "\e613";
+}
+
+.icon-tingzhi:before {
+  content: "\e67d";
+}
+
+.icon-liebiao:before {
+  content: "\e645";
+}
+
+.icon-danquxunhuan:before {
+  content: "\e6a2";
+}
+
+.icon-search:before {
+  content: "\e647";
+}
+
